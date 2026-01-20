@@ -1,0 +1,6 @@
+playwright
+openai
+pandas
+nest_asyncio
+xlsxwriter
+openpyxl
