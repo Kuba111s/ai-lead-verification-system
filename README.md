@@ -25,12 +25,3 @@ I built a high-speed **Asynchronous Python Scraper** that acts as an intelligent
 * **AI Logic:** `openai`
 * **Data Processing:** `pandas`, `json`
 * **Reporting:** `xlsxwriter`
-
----
-
-### How to Run This Project
-
-**1. Clone the repository**
-```bash
-git clone [https://github.com/YOUR_USERNAME/repo-name.git](https://github.com/Kuba111s/repo-name.git)
-cd repo-name
